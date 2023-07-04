@@ -31,11 +31,15 @@ How to Use:
 6. You can click the "Generate Password" button again to generate a new password with different criteria.
 
 Technologies Used:
-HTML
-CSS
-JavaScript
-Compatibility
+- HTML
+- CSS
+- JavaScript
+
+Compatibility:
+
 This password generator is compatible with most modern web browsers, including Chrome, Firefox, Safari, and Edge.
 
+
 Contributions:
+
 Contributions to the project are welcome! If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request.
